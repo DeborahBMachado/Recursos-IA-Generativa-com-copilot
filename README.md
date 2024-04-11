@@ -21,6 +21,9 @@ Abaixo alguns exemplos do que é possível fazer com o Copilot
 
 Pedi ao Copilot que criasse um código em Python para criar uma calculadora
 
+![image](https://github.com/DeborahBMachado/Recursos-IA-Generativa-com-copilot/blob/main/Input%20Imagens%20Copilot/Captura%20de%20tela%202024-04-11%20120532.png)
+
+
 
 
 # Resposta a perguntas
