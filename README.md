@@ -39,6 +39,9 @@ Pedi ao Copilot que criasse um código em Python para criar uma calculadora
 Perguntei ao Copilot: Quais passeios posso fazer na cidade de Boa Vista no estado de Roraima?
 
 
+![image](https://github.com/DeborahBMachado/Recursos-IA-Generativa-com-copilot/blob/main/Input%20Imagens%20Copilot/Captura%20de%20tela%202024-04-11%20121151.png)
+
+
 # Criação de Imagens
 
 Pedi ao Copilot criar 4 versões de uma imagem de uma cachorro pequeno de pelo longo na cor preta e com uma das orelhas na cor branca deitado em uma almofada. Ao final ele coloca algumas sugestões para melhorar ou alterar a imagem criada.
