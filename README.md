@@ -47,6 +47,10 @@ Perguntei ao Copilot: Quais passeios posso fazer na cidade de Boa Vista no estad
 Pedi ao Copilot criar 4 versões de uma imagem de uma cachorro pequeno de pelo longo na cor preta e com uma das orelhas na cor branca deitado em uma almofada. Ao final ele coloca algumas sugestões para melhorar ou alterar a imagem criada.
 
 
+![image](https://github.com/DeborahBMachado/Recursos-IA-Generativa-com-copilot/blob/main/Input%20Imagens%20Copilot/Captura%20de%20tela%202024-04-11%20121456.png)
+
+
+
 # Conclusão
 
 O Microsoft Copilot é uma ferramenta extremamente útil para diversos usuários, podendo ser utilizada tanto no ambito pessoal quanto no profissional.
